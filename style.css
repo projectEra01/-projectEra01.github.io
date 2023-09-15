@@ -1,6 +1,5 @@
 body{
     font-family: arial;
-    text-align: center;
 }
 
 input{
@@ -10,4 +9,14 @@ input{
     padding: 15px;
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.279);
 
+}
+
+.header{
+    background-color: black;
+    color: white;
+    top: 0;
+    right: 0;
+    left: 0;
+    position: fixed;
+    padding-left: 10px;
 }
