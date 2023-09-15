@@ -1,0 +1,13 @@
+body{
+    font-family: arial;
+    text-align: center;
+}
+
+input{
+    border: none;
+    background-color: lightgray;
+    border-radius: 7px;
+    padding: 15px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.279);
+
+}
