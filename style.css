@@ -1,5 +1,6 @@
 body{
     font-family: arial;
+    padding-top: 80px;
 }
 
 input{
@@ -18,5 +19,8 @@ input{
     right: 0;
     left: 0;
     position: fixed;
-    padding-left: 10px;
+}
+
+.title{
+    margin: 7px;
 }
